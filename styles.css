@@ -1,0 +1,24 @@
+
+body {
+	background: pink;
+	color: gray;
+	font-size 14pt;
+	font-family: 'Indie Flower', cursive; }
+
+
+
+h1 {
+	background:;
+	color: white;
+	font-size 14pt;
+	font-family: 'Indie Flower', cursive; }
+
+h1 { font-size: 150%;
+	font weight: bold;
+	color: gray; }
+
+LI {DISPLAY: INLINE-BLOCK; 
+	BORDER:2px solid gray}
+
+NAV { inline-block }
+
